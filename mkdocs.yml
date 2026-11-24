@@ -10,13 +10,13 @@ theme:
 
 nav:
   - ホーム: index.md
-  - アルゴリズム:
+  - アルゴリズム: algorithms/index.md
   - Python:
-      - Python 基礎: python/basics.md
-      - データ構造: python/data_structures.md
-      - 制御構文 / 例外処理: python/control_flow.md
-      - 関数 / オブジェクト / モジュール: python/functions_oop.md
-      - 標準入出力: python/io.md
-      - ファイル操作: python/file_io.md
-      - 実用ツール: python/practical_tools.md
-      - AtCoder 便利ツール: python/atcoder_tools.md
+    - Python 基礎: python/basics.md
+    - データ構造: python/data_structures.md
+    - 制御構文 / 例外処理: python/control_flow.md
+    - 関数 / オブジェクト / モジュール: python/functions_oop.md
+    - 標準入出力: python/io.md
+    - ファイル操作: python/file_io.md
+    - 実用ツール: python/practical_tools.md
+    - AtCoder 便利ツール: python/atcoder_tools.md
