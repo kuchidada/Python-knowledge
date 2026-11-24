@@ -10,7 +10,7 @@ theme:
 
 nav:
   - ホーム: index.md
-  - アルゴリズム: python/algorithms.md
+  - アルゴリズム:
   - Python:
       - Python 基礎: python/basics.md
       - データ構造: python/data_structures.md
