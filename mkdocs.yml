@@ -1,4 +1,4 @@
-site_name: Python Knowledge
+site_name: AtCoder Knowledge
 theme:
   name: material
   language: ja
@@ -10,6 +10,7 @@ theme:
 
 nav:
   - ホーム: index.md
+  - アルゴリズム: python/algorithms.md
   - Python:
       - Python 基礎: python/basics.md
       - データ構造: python/data_structures.md
@@ -18,5 +19,4 @@ nav:
       - 標準入出力: python/io.md
       - ファイル操作: python/file_io.md
       - 実用ツール: python/practical_tools.md
-      - アルゴリズム: python/algorithms.md
       - AtCoder 便利ツール: python/atcoder_tools.md
