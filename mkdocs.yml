@@ -1,0 +1,8 @@
+site_name: AtCoder Knowledge
+theme:
+  name: material
+  language: ja
+  features:
+    - navigation.tabs
+    - search.suggest
+    - content.code.copy
